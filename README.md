@@ -1,4 +1,4 @@
-<p align="left">Hi 👋, I'm Riski Saria a Web Developer from Indonesia</p>
+<h3 align="left">Hi 👋, I'm Riski Saria a Web Developer from Indonesia</h3>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -24,16 +24,11 @@
 </div>
 
 ###
-
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" class="border: 1px solid blue" />
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/riski-saria-585a41257/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
