@@ -25,8 +25,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sariaRiski02/sariaRiski02/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
