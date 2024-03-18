@@ -1,4 +1,4 @@
-<p align="left">Hi 👋, I'm Riski Saria a Web Developer</p>
+<p align="left">Hi 👋, I'm Riski Saria a Web Developer from Indonesia</p>
 
 ###
 
